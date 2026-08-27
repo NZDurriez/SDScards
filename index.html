@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mini SDS Library</title>
+    <meta
+      name="description"
+      content="View and download Mini Safety Data Sheet cards."
+    />
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="assets/app.css" />
+  </head>
+  <body>
+    <a class="skip" href="#results">Skip to cards</a>
+
+    <header class="masthead">
+      <div class="masthead__inner">
+        <div class="brand">
+          <span class="brand__mark" aria-hidden="true"></span>
+          <div>
+            <p class="brand__kicker">Chemwatch Mini SDS</p>
+            <h1>Safety Data Sheets</h1>
+          </div>
+        </div>
+        <p class="brand__lede">
+          Browse, preview, and download the Mini SDS cards in
+          <code>minis/</code>.
+        </p>
+      </div>
+      <div class="emergency" role="note">
+        <strong>NZ emergency</strong>
+        <span>Poisons Centre <a href="tel:0800764766">0800 764 766</a></span>
+        <span>Emergency services <a href="tel:111">111</a></span>
+        <span class="emergency__note">Mini SDS is a summary only — read the full SDS before use.</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="Search and filters">
+        <label class="search">
+          <span class="visually-hidden">Search Mini SDS cards</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2" />
+            <path d="M20 20l-3.5-3.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+          </svg>
+          <input
+            id="q"
+            type="search"
+            placeholder="Search product, SKU, UN number, hazard…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </label>
+
+        <div class="toolbar__meta">
+          <p id="status" class="status">Loading cards…</p>
+          <a class="btn btn--ghost" href="minis.zip" download>
+            Download all
+          </a>
+        </div>
+
+        <div class="filters" id="brand-filters" role="tablist" aria-label="Brand"></div>
+        <div class="filters" id="alert-filters" role="group" aria-label="Hazard alert"></div>
+      </section>
+
+      <p id="empty" class="empty" hidden>No Mini SDS cards match that search.</p>
+      <section id="results" class="grid" aria-live="polite"></section>
+    </main>
+
+    <div id="viewer" class="viewer" hidden>
+      <div class="viewer__bar">
+        <div class="viewer__nav">
+          <button class="btn btn--ghost" id="prev" type="button">Previous</button>
+          <button class="btn btn--ghost" id="next" type="button">Next</button>
+        </div>
+        <div class="viewer__title">
+          <p id="viewer-kicker" class="eyebrow"></p>
+          <h2 id="viewer-title"></h2>
+        </div>
+        <div class="viewer__actions">
+          <a class="btn" id="open-tab" target="_blank" rel="noopener">Open PDF</a>
+          <a class="btn btn--primary" id="download" download>Download</a>
+          <button class="btn btn--ghost" id="close" type="button">Close</button>
+        </div>
+      </div>
+      <iframe id="frame" title="Mini SDS preview"></iframe>
+    </div>
+
+    <script src="assets/app.js" type="module"></script>
+  </body>
+</html>
