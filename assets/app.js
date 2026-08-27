@@ -2,6 +2,7 @@ const state = {
   cards: [],
   brand: "All",
   alert: "All",
+  kind: "All",
   query: "",
 };
 
@@ -10,6 +11,7 @@ const els = {
   status: document.querySelector("#status"),
   brands: document.querySelector("#brand-filters"),
   alerts: document.querySelector("#alert-filters"),
+  kinds: document.querySelector("#kind-filters"),
   results: document.querySelector("#results"),
   empty: document.querySelector("#empty"),
   viewer: document.querySelector("#viewer"),
@@ -58,6 +60,7 @@ function visibleCards() {
   return state.cards.filter((card) => {
     if (state.brand !== "All" && card.brand !== state.brand) return false;
     if (state.alert !== "All" && String(card.hazardAlert) !== state.alert) return false;
+    if (state.kind !== "All" && card.kind !== state.kind) return false;
     if (!q) return true;
     return card.search.includes(q);
   });
@@ -97,6 +100,19 @@ function renderFilters() {
       return btn;
     })
   );
+
+  const kinds = ["All", ...[...new Set(state.cards.map((c) => c.kind).filter(Boolean))]];
+  els.kinds.replaceChildren(
+    ...kinds.map((kind) => {
+      const label = kind === "All" ? "All document types" : kind;
+      const btn = chip(label, state.kind === kind);
+      btn.addEventListener("click", () => {
+        state.kind = kind;
+        render();
+      });
+      return btn;
+    })
+  );
 }
 
 function cardEl(card) {
@@ -112,6 +128,7 @@ function cardEl(card) {
       <h2 class="card__title">${escapeHtml(card.title)}</h2>
       <ul class="card__meta">
         ${card.sku ? `<li>SKU ${escapeHtml(card.sku)}</li>` : ""}
+        ${card.kind ? `<li>${escapeHtml(card.kind)}</li>` : ""}
         ${card.un ? `<li>UN ${escapeHtml(card.un)}</li>` : ""}
         ${card.dgClass ? `<li>DG ${escapeHtml(card.dgClass)}</li>` : ""}
         <li>${bytes(card.bytes)}</li>
@@ -133,7 +150,7 @@ function cardEl(card) {
 function render() {
   renderFilters();
   const cards = visibleCards();
-  els.status.textContent = `${cards.length} of ${state.cards.length} Mini SDS card${state.cards.length === 1 ? "" : "s"}`;
+  els.status.textContent = `${cards.length} of ${state.cards.length} SDS document${state.cards.length === 1 ? "" : "s"}`;
   els.results.replaceChildren(...cards.map(cardEl));
   els.empty.hidden = cards.length > 0;
 }

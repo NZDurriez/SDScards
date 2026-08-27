@@ -50,6 +50,11 @@ def clean_filename(name: str) -> str:
     return re.sub(r"\s+", " ", stem).strip()
 
 
+TITLE_OVERRIDES = {
+    "MiniSDS_CRC 556 Marine Aerosol (NZ)_undefined_AUS_EN.pdf": "CRC 556 / 66-Marine (6006) Marine Aerosol",
+}
+
+
 def brand_of(*parts: str) -> str:
     blob = " ".join(parts).lower()
     if "crc" in blob:
@@ -60,6 +65,20 @@ def brand_of(*parts: str) -> str:
         return "Galmet"
     if "colorpak" in blob or "formula" in blob:
         return "Colorpak"
+    if "raid" in blob:
+        return "Raid"
+    if "wurth" in blob or "würth" in blob:
+        return "Würth"
+    if "inox" in blob:
+        return "INOX"
+    if "3m" in blob:
+        return "3M"
+    if "air wick" in blob or "airwick" in blob:
+        return "Air Wick"
+    if "pledge" in blob:
+        return "Pledge"
+    if "lowa" in blob:
+        return "LOWA"
     return "Other"
 
 
@@ -142,8 +161,8 @@ def extract_card(path: Path) -> dict:
     text = page.get_text()
     display = clean_filename(path.name)
     pdf_name = product_from_pdf(text)
-    title = display
-    if pdf_name:
+    title = TITLE_OVERRIDES.get(path.name, display)
+    if path.name not in TITLE_OVERRIDES and pdf_name:
         truncated = display.count("(") > display.count(")")
         if truncated or len(pdf_name) > len(display):
             title = pdf_name
@@ -159,19 +178,23 @@ def extract_card(path: Path) -> dict:
         alert = int(m.group(1))
 
     un_no = None
-    m = re.search(r"UN No:\s*([0-9A-Za-z]+)", text)
+    m = re.search(r"UN(?:\s*No\.?|\s*number)?\s*:?\s*(1950|\d{4})", text, re.I)
     if m:
         un_no = m.group(1)
 
     dg = None
     m = re.search(r"DG Class:\s*([0-9.A-Za-z]+)", text)
+    if not m:
+        m = re.search(r"(?:hazard )?class(?:es)?\s*:?\s*(2\.[12])", text, re.I)
     if m:
         dg = m.group(1)
 
     signal = None
-    m = re.search(r"Signal word:\s*(\w+)", text)
+    m = re.search(r"Signal word:?\s*(Danger|Warning)", text, re.I)
     if m:
-        signal = m.group(1)
+        signal = m.group(1).title()
+
+    kind = "Mini SDS" if ("MINI SDS" in text.upper() or "THIS IS A SUMMARY ONLY" in text.upper()) else "Full SDS"
 
     codes = hazard_codes(text)
     hazards = [{"code": c, "label": H_LABELS.get(c, c)} for c in codes]
@@ -181,7 +204,7 @@ def extract_card(path: Path) -> dict:
     pix = page.get_pixmap(matrix=pymupdf.Matrix(0.7, 0.7), alpha=False)
     pix.save(thumb_path, jpg_quality=62)
 
-    search = re.sub(r"\s+", " ", f"{display} {pdf_name or ''} {text}").strip().lower()
+    search = re.sub(r"\s+", " ", f"{display} {title} {pdf_name or ''} {text}").strip().lower()
 
     return {
         "id": re.sub(r"[^a-z0-9]+", "-", display.lower()).strip("-"),
@@ -200,6 +223,7 @@ def extract_card(path: Path) -> dict:
         "signal": signal,
         "hazards": hazards,
         "pictograms": pictograms(codes),
+        "kind": kind,
         "bytes": path.stat().st_size,
         "pages": doc.page_count,
         "search": search,
