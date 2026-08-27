@@ -1,0 +1,1153 @@
+{
+  "title": "Mini SDS Library",
+  "source": "minis",
+  "count": 25,
+  "cards": [
+    {
+      "id": "1751837-crc-5-56-multi-purpose-420ml",
+      "file": "1751837 - CRC 5.56 Multi-Purpose (420ml).pdf",
+      "url": "minis/1751837 - CRC 5.56 Multi-Purpose (420ml).pdf",
+      "thumb": "thumbs/1751837_-_CRC_5.56_Multi-Purpose_420ml_.jpg",
+      "title": "1751837 - CRC 5.56 Multi-Purpose (420ml)",
+      "product": "5.56 Multipurpose Aerosol",
+      "sku": "1751837",
+      "size": "420ml",
+      "brand": "CRC",
+      "chemwatch": "4552-27",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H412",
+          "label": "Harmful to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 102107,
+      "pages": 1,
+      "search": "1751837 - crc 5.56 multi-purpose (420ml) 5.56 multipurpose aerosol chemwatch: 4552-27 chemwatch hazard alert code: 4 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available 5.56 multipurpose aerosol ingredients cas no % twa lpg (liquefied petroleum gas) 68476-85-7. 10-30 1800 mg/m3 liquid hydrocarbons various >60 - mineral oil 63748-98-1 10-30 5 mg/m3 performance additives not available 1-10 - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.4a, 6.9b (narcotic effects), 9.1c signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h319 causes serious eye irritation. h336 may cause drowsiness or dizziness. h412 harmful to aquatic life with long lasting effects. precautions for use gloves: when handling larger quantities: respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: emesis generally unnecessary. debride for subcutaneous injection. evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4552-27 print date: 26/08/2026 initial date: not available revision date: 30/07/2024 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "2044-crc-red-urethane-seal-300g",
+      "file": "2044 - CRC Red Urethane Seal (300g).pdf",
+      "url": "minis/2044 - CRC Red Urethane Seal (300g).pdf",
+      "thumb": "thumbs/2044_-_CRC_Red_Urethane_Seal_300g_.jpg",
+      "title": "CRC (NZ) 2044 Red Urethane Seal Coat (Aerosol)",
+      "product": "CRC (NZ) 2044 Red Urethane Seal Coat (Aerosol)",
+      "sku": "2044",
+      "size": "300g",
+      "brand": "CRC",
+      "chemwatch": "5605-88",
+      "hazardAlert": 3,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H315",
+          "label": "Causes skin irritation"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H412",
+          "label": "Harmful to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 102415,
+      "pages": 1,
+      "search": "2044 - crc red urethane seal (300g) crc (nz) 2044 red urethane seal coat (aerosol) chemwatch: 5605-88 chemwatch hazard alert code: 3 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc (nz) 2044 red urethane seal coat (aerosol) ingredients cas no % twa naphtha, petroleum, hydrodesulfurised heavy 64742-82-1. 5-15 525 mg/m3 acetone 67-64-1 10-30 1185 mg/m3 hydrocarbon propellant 68476-86-8. 20-30 1800 mg/m3 red iron oxide 1309-37-1 3-5 5 mg/m3 un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.3a, 6.4a, 6.9b (narcotic effects), 9.1c signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h315 causes skin irritation. h319 causes serious eye irritation. h336 may cause drowsiness or dizziness. h412 harmful to aquatic life with long lasting effects. precautions for use gloves: 1.butyl 2.butyl/neoprene 3.pva storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: no antidote. supportive care. treat symptoms not history. emesis. deferoxamine may be antidotal. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. control vapour with water spray/ fog. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 5605-88 print date: 26/08/2026 initial date: not available revision date: 17/07/2023 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "3013-crc-heavy-film-soft-seal",
+      "file": "3013 - CRC Heavy Film Soft Seal.pdf",
+      "url": "minis/3013 - CRC Heavy Film Soft Seal.pdf",
+      "thumb": "thumbs/3013_-_CRC_Heavy_Film_Soft_Seal.jpg",
+      "title": "CRC 3013 Soft Seal / Panel Seal (Aerosol) (NZ)",
+      "product": "CRC 3013 Soft Seal / Panel Seal (Aerosol) (NZ)",
+      "sku": "3013",
+      "size": null,
+      "brand": "CRC",
+      "chemwatch": "4546-12",
+      "hazardAlert": 3,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "exclamation"
+      ],
+      "bytes": 109999,
+      "pages": 1,
+      "search": "3013 - crc heavy film soft seal crc 3013 soft seal / panel seal (aerosol) (nz) chemwatch: 4546-12 chemwatch hazard alert code: 3 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc 3013 soft seal / panel seal (aerosol) (nz) ingredients cas no % twa isohexanes 73513-42-5 30-60 1760 mg/m3 lpg (liquefied petroleum gas) 68476-85-7. 10-30 1800 mg/m3 liquid hydrocarbons various 30-60 - note: manufacturer has supplied full ingredient not available - - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.9b (narcotic effects) signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h336 may cause drowsiness or dizziness. precautions for use gloves: when handling larger quantities: respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water.extremely flammable. combustible. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: emesis generally unnecessary. debride for subcutaneous injection. evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4546-12 print date: 26/08/2026 initial date: not available revision date: 10/07/2024 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "3030-crc-ex-duty-silicone-lube",
+      "file": "3030 - CRC Ex Duty Silicone Lube.pdf",
+      "url": "minis/3030 - CRC Ex Duty Silicone Lube.pdf",
+      "thumb": "thumbs/3030_-_CRC_Ex_Duty_Silicone_Lube.jpg",
+      "title": "CRC 3030 Extreme Duty Silicone (Aerosol) (NZ)",
+      "product": "CRC 3030 Extreme Duty Silicone (Aerosol) (NZ)",
+      "sku": "3030",
+      "size": null,
+      "brand": "CRC",
+      "chemwatch": "4552-29",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas"
+      ],
+      "bytes": 108054,
+      "pages": 1,
+      "search": "3030 - crc ex duty silicone lube crc 3030 extreme duty silicone (aerosol) (nz) chemwatch: 4552-29 chemwatch hazard alert code: 4 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc 3030 extreme duty silicone (aerosol) (nz) ingredients cas no % twa lpg (liquefied petroleum gas) 68476-85-7. 10-30 1800 mg/m3 aliphatic hydrocarbon not available 30-60 - silicone oligomer not available 1-10 - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. precautions for use gloves: when handling larger quantities: respirator: type ax filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. control vapour with water spray/ fog. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4552-29 print date: 26/08/2026 initial date: not available revision date: 27/07/2025 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "3032-crc-syntex-350g",
+      "file": "3032 - CRC Syntex (350g).pdf",
+      "url": "minis/3032 - CRC Syntex (350g).pdf",
+      "thumb": "thumbs/3032_-_CRC_Syntex_350g_.jpg",
+      "title": "3032 - CRC Syntex (350g)",
+      "product": "CRC (NZ) 3035 Syntex",
+      "sku": "3032",
+      "size": "350g",
+      "brand": "CRC",
+      "chemwatch": "4818-17",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H412",
+          "label": "Harmful to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 91230,
+      "pages": 1,
+      "search": "3032 - crc syntex (350g) crc (nz) 3035 syntex chemwatch: 4818-17 chemwatch hazard alert code: 4 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc (nz) 3035 syntex ingredients cas no % twa 1-decene dimer, hydrogenated 68649-11-6 10-30 5 mg/m3 lpg (liquefied petroleum gas) 68476-85-7. 30-50 1800 mg/m3 1-decene homopolymer, hydrogenated 68037-01-4 0-10 - 1-dodecene polymer with 1-octene, hydrogenated 163149-29-9 0-10 - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.4a, 9.1c signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h319 causes serious eye irritation. h412 harmful to aquatic life with long lasting effects. precautions for use gloves: when handling larger quantities: respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from food, drink and animal feeding stuffs. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. environment: may cause long-term adverse effects in the aquatic environment. properties liquid. gas. does not mix with water.extremely flammable. emergency first aid swallowed: give water (if conscious). seek medical advice. eye: wash with running water (15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4818-17 print date: 26/08/2026 initial date: not available revision date: 29/05/2025 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "3040-crc-dry-glide",
+      "file": "3040 - CRC Dry-Glide.pdf",
+      "url": "minis/3040 - CRC Dry-Glide.pdf",
+      "thumb": "thumbs/3040_-_CRC_Dry-Glide.jpg",
+      "title": "CRC 3040 Dry Glide (NZ)",
+      "product": "CRC 3040 Dry Glide (NZ)",
+      "sku": "3040",
+      "size": null,
+      "brand": "CRC",
+      "chemwatch": "4552-88",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H302",
+          "label": "Harmful if swallowed"
+        },
+        {
+          "code": "H315",
+          "label": "Causes skin irritation"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H361",
+          "label": "Suspected of damaging fertility or the unborn child"
+        },
+        {
+          "code": "H373",
+          "label": "May cause damage to organs through prolonged or repeated exposure"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "exclamation"
+      ],
+      "bytes": 120011,
+      "pages": 1,
+      "search": "3040 - crc dry-glide crc 3040 dry glide (nz) chemwatch: 4552-88 chemwatch hazard alert code: 4 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc 3040 dry glide (nz) ingredients cas no % twa toluene 108-88-3 10-30 75 mg/m3 dimethyl ether 115-10-6 30-60 766 mg/m3 ethanol 64-17-5 10-30 380 mg/m3 note: manufacturer has supplied full ingredient not available - - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.1d (oral), 6.3a, 6.4a, 6.8b, 6.9b signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h302 harmful if swallowed. h315 causes skin irritation. h319 causes serious eye irritation. h361 suspected of damaging fertility or the unborn child. h373 may cause damage to organs through prolonged or repeated exposure. precautions for use glasses: consider chemical goggles. gloves: 1.pva 2.viton 3.pe/eval/pe respirator: type ax filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from food, drink and animal feeding stuffs. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. mixes with water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. water spray/ fog. spills and disposal: eliminate ignition sources. control vapour with water spray/ fog. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4552-88 print date: 26/08/2026 initial date: not available revision date: 10/03/2023 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "3045-crc-power-lube-300g",
+      "file": "3045 - CRC Power Lube (300g).pdf",
+      "url": "minis/3045 - CRC Power Lube (300g).pdf",
+      "thumb": "thumbs/3045_-_CRC_Power_Lube_300g_.jpg",
+      "title": "CRC (NZ) 3045 Power Lube w/Teflon (Aerosol)",
+      "product": "CRC (NZ) 3045 Power Lube w/Teflon (Aerosol)",
+      "sku": "3045",
+      "size": "300g",
+      "brand": "CRC",
+      "chemwatch": "4546-63",
+      "hazardAlert": 3,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H304",
+          "label": "May be fatal if swallowed and enters airways"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H372",
+          "label": "Causes damage to organs through prolonged or repeated exposure"
+        },
+        {
+          "code": "H411",
+          "label": "Toxic to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 123303,
+      "pages": 1,
+      "search": "3045 - crc power lube (300g) crc (nz) 3045 power lube w/teflon (aerosol) chemwatch: 4546-63 chemwatch hazard alert code: 3 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc (nz) 3045 power lube w/teflon (aerosol) ingredients cas no % twa paraffinic distillate, heavy, hydrotreated (severe) 64742-54-7. 23-33 5 mg/m3 n-hexane 110-54-3 0-10 72 mg/m3 dipropylene glycol monomethyl ether 34590-94-8 0-10 308 mg/m3 2-methylpentane 107-83-5 30-40 1760 mg/m3 un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.1e (aspiration), 6.4a, 6.9a, 6.9b (narcotic effects), 9.1b signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h304 may be fatal if swallowed and enters airways. h319 causes serious eye irritation. h336 may cause drowsiness or dizziness. h372 causes damage to organs through prolonged or repeated exposure. h411 toxic to aquatic life with long lasting effects. precautions for use glasses: consider chemical goggles. gloves: 1.pe/eval/pe 2.saranex-232-ply respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: give water (if conscious). seek medical advice. do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: emesis generally unnecessary. debride for subcutaneous injection. no antidote. supportive care. evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: spilled liquid has low boiling temperature and evaporates quickly. eliminate ignition sources. control vapour with water spray/ fog. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4546-63 print date: 26/08/2026 initial date: not available revision date: 10/03/2023 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "3352-crc-peel-off-400ml",
+      "file": "3352 - CRC Peel Off (400ml).pdf",
+      "url": "minis/3352 - CRC Peel Off (400ml).pdf",
+      "thumb": "thumbs/3352_-_CRC_Peel_Off_400ml_.jpg",
+      "title": "CRC 3352 Peel Off Label Remover (Aerosol)",
+      "product": "CRC 3352 Peel Off Label Remover (Aerosol)",
+      "sku": "3352",
+      "size": "400ml",
+      "brand": "CRC",
+      "chemwatch": "4828-8",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H317",
+          "label": "May cause an allergic skin reaction"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H410",
+          "label": "Very toxic to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 121877,
+      "pages": 1,
+      "search": "3352 - crc peel off (400ml) crc 3352 peel off label remover (aerosol) chemwatch: 4828-8 chemwatch hazard alert code: 4 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc 3352 peel off label remover (aerosol) ingredients cas no % twa hydrocarbon propellant 68476-85-7. 10-30 1800 mg/m3 d-limonene 5989-27-5 30-60 - propylene glycol mono-n-propyl ether 1569-01-3 10-30 - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.4a, 6.5b (contact), 6.9b (narcotic effects), 9.1a signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h317 may cause an allergic skin reaction. h319 causes serious eye irritation. h336 may cause drowsiness or dizziness. h410 very toxic to aquatic life with long lasting effects. precautions for use glasses: consider chemical goggles. gloves: 1.nitrile 2.pva 3.viton respirator: type ax filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4828-8 print date: 26/08/2026 initial date: not available revision date: 10/03/2023 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "3379-crc-paint-it-black-gloss-350g",
+      "file": "3379 - CRC Paint IT Black Gloss (350g).pdf",
+      "url": "minis/3379 - CRC Paint IT Black Gloss (350g).pdf",
+      "thumb": "thumbs/3379_-_CRC_Paint_IT_Black_Gloss_350g_.jpg",
+      "title": "3379 - CRC Paint IT Black Gloss (350g)",
+      "product": "CRC(NZ) Paint IT Aerosol",
+      "sku": "3379",
+      "size": "350g",
+      "brand": "CRC",
+      "chemwatch": "7941-39",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H302",
+          "label": "Harmful if swallowed"
+        },
+        {
+          "code": "H315",
+          "label": "Causes skin irritation"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H361",
+          "label": "Suspected of damaging fertility or the unborn child"
+        },
+        {
+          "code": "H373",
+          "label": "May cause damage to organs through prolonged or repeated exposure"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "exclamation"
+      ],
+      "bytes": 122020,
+      "pages": 1,
+      "search": "3379 - crc paint it black gloss (350g) crc(nz) paint it aerosol chemwatch: 7941-39 chemwatch hazard alert code: 4 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc(nz) paint it aerosol ingredients cas no % twa toluene 108-88-3 20-30 75 mg/m3 acetone 67-64-1 20-30 1185 mg/m3 hydrocarbon propellant 68476-85-7. 23-45 1800 mg/m3 zirconium 2-ethylhexanoate 22464-99-9 <1 3 mg/m3 un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.1d (oral), 6.3a, 6.4a, 6.8b, 6.9b signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h302 harmful if swallowed. h315 causes skin irritation. h319 causes serious eye irritation. h336 may cause drowsiness or dizziness. h361 suspected of damaging fertility or the unborn child. h373 may cause damage to organs through prolonged or repeated exposure. precautions for use glasses: consider chemical goggles. gloves: 1.pe/eval/pe 2.teflon 3.viton respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from food, drink and animal feeding stuffs. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water.extremely flammable. emergency first aid swallowed: give water (if conscious). seek medical advice. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: no antidote. supportive care. evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: spilled liquid has low boiling temperature and evaporates quickly. eliminate ignition sources. control vapour with water spray/ fog. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 7941-39 print date: 26/08/2026 initial date: not available revision date: 24/02/2025 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "5005-crc-5-56-multi-purpose-400ml",
+      "file": "5005 - CRC 5.56 Multi-Purpose (400ml).pdf",
+      "url": "minis/5005 - CRC 5.56 Multi-Purpose (400ml).pdf",
+      "thumb": "thumbs/5005_-_CRC_5.56_Multi-Purpose_400ml_.jpg",
+      "title": "5005 - CRC 5.56 Multi-Purpose (400ml)",
+      "product": "5.56 Multipurpose Aerosol",
+      "sku": "5005",
+      "size": "400ml",
+      "brand": "CRC",
+      "chemwatch": "4552-27",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H412",
+          "label": "Harmful to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 102107,
+      "pages": 1,
+      "search": "5005 - crc 5.56 multi-purpose (400ml) 5.56 multipurpose aerosol chemwatch: 4552-27 chemwatch hazard alert code: 4 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available 5.56 multipurpose aerosol ingredients cas no % twa lpg (liquefied petroleum gas) 68476-85-7. 10-30 1800 mg/m3 liquid hydrocarbons various >60 - mineral oil 63748-98-1 10-30 5 mg/m3 performance additives not available 1-10 - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.4a, 6.9b (narcotic effects), 9.1c signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h319 causes serious eye irritation. h336 may cause drowsiness or dizziness. h412 harmful to aquatic life with long lasting effects. precautions for use gloves: when handling larger quantities: respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: emesis generally unnecessary. debride for subcutaneous injection. evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4552-27 print date: 26/08/2026 initial date: not available revision date: 30/07/2024 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "5006-crc-5-56-multi-purpose-550ml",
+      "file": "5006 - CRC 5.56 Multi-Purpose (550ml).pdf",
+      "url": "minis/5006 - CRC 5.56 Multi-Purpose (550ml).pdf",
+      "thumb": "thumbs/5006_-_CRC_5.56_Multi-Purpose_550ml_.jpg",
+      "title": "5006 - CRC 5.56 Multi-Purpose (550ml)",
+      "product": "5.56 Multipurpose Aerosol",
+      "sku": "5006",
+      "size": "550ml",
+      "brand": "CRC",
+      "chemwatch": "4552-27",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H412",
+          "label": "Harmful to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 102107,
+      "pages": 1,
+      "search": "5006 - crc 5.56 multi-purpose (550ml) 5.56 multipurpose aerosol chemwatch: 4552-27 chemwatch hazard alert code: 4 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available 5.56 multipurpose aerosol ingredients cas no % twa lpg (liquefied petroleum gas) 68476-85-7. 10-30 1800 mg/m3 liquid hydrocarbons various >60 - mineral oil 63748-98-1 10-30 5 mg/m3 performance additives not available 1-10 - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.4a, 6.9b (narcotic effects), 9.1c signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h319 causes serious eye irritation. h336 may cause drowsiness or dizziness. h412 harmful to aquatic life with long lasting effects. precautions for use gloves: when handling larger quantities: respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: emesis generally unnecessary. debride for subcutaneous injection. evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4552-27 print date: 26/08/2026 initial date: not available revision date: 30/07/2024 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "5014-crc-hp-multi-lube",
+      "file": "5014 - CRC HP Multi-Lube.pdf",
+      "url": "minis/5014 - CRC HP Multi-Lube.pdf",
+      "thumb": "thumbs/5014_-_CRC_HP_Multi-Lube.jpg",
+      "title": "5014 - CRC HP Multi-Lube",
+      "product": "CRC(NZ) Multilube",
+      "sku": "5014",
+      "size": null,
+      "brand": "CRC",
+      "chemwatch": "4772-43",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H411",
+          "label": "Toxic to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment"
+      ],
+      "bytes": 112800,
+      "pages": 1,
+      "search": "5014 - crc hp multi-lube crc(nz) multilube chemwatch: 4772-43 chemwatch hazard alert code: 4 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc(nz) multilube ingredients cas no % twa butane 106-97-8. 10-30 1900 mg/m3 solvent not available 30-60 - propane 74-98-6 10-30 - lubricant not available 30-60 - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 9.1b signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h411 toxic to aquatic life with long lasting effects. precautions for use gloves: 1.nitrile+pvc 2.hypalon 3.pvc respirator: type ax filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4772-43 print date: 26/08/2026 initial date: not available revision date: 10/12/2021 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "5035-crc-tac-2",
+      "file": "5035 - CRC Tac-2.pdf",
+      "url": "minis/5035 - CRC Tac-2.pdf",
+      "thumb": "thumbs/5035_-_CRC_Tac-2.jpg",
+      "title": "CRC (NZ) 5035 Tac 2 (Aerosol)",
+      "product": "CRC (NZ) 5035 Tac 2 (Aerosol)",
+      "sku": "5035",
+      "size": null,
+      "brand": "CRC",
+      "chemwatch": "5341-56",
+      "hazardAlert": 3,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H315",
+          "label": "Causes skin irritation"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H412",
+          "label": "Harmful to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 94949,
+      "pages": 1,
+      "search": "5035 - crc tac-2 crc (nz) 5035 tac 2 (aerosol) chemwatch: 5341-56 chemwatch hazard alert code: 3 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc (nz) 5035 tac 2 (aerosol) ingredients cas no % twa paraffinic distillate, heavy, hydrotreated (severe) 64742-54-7. 20-30 5 mg/m3 paraffinic distillate, heavy, solvent-dewaxed (severe) 64742-65-0. 5-10 5 mg/m3 hydrocarbon propellant 68476-85-7. 30-60 1800 mg/m3 n-hexane 110-54-3 <0.5 72 mg/m3 un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.3a, 6.4a, 9.1c signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h315 causes skin irritation. h319 causes serious eye irritation. h412 harmful to aquatic life with long lasting effects. precautions for use gloves: 1.pe/eval/pe 2.pva 3.viton respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: emesis generally unnecessary. debride for subcutaneous injection. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 5341-56 print date: 26/08/2026 initial date: not available revision date: 10/12/2021 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "5040-crc-engine-start",
+      "file": "5040 - CRC Engine Start.pdf",
+      "url": "minis/5040 - CRC Engine Start.pdf",
+      "thumb": "thumbs/5040_-_CRC_Engine_Start.jpg",
+      "title": "CRC 5040 Engine Start (NZ)",
+      "product": "CRC 5040 Engine Start (NZ)",
+      "sku": "5040",
+      "size": null,
+      "brand": "CRC",
+      "chemwatch": "4546-42",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H351",
+          "label": "Suspected of causing cancer"
+        },
+        {
+          "code": "H411",
+          "label": "Toxic to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 114615,
+      "pages": 1,
+      "search": "5040 - crc engine start crc 5040 engine start (nz) chemwatch: 4546-42 chemwatch hazard alert code: 4 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc 5040 engine start (nz) ingredients cas no % twa gasoline 8006-61-9 30-60 890 mg/m3 diethyl ether 60-29-7 5-20 1210 mg/m3 ethanol 64-17-5 1-9 380 mg/m3 carbon dioxide 124-38-9 1-9 9000 mg/m3 un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.4a, 6.7b, 6.9b (narcotic effects), 9.1b signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h319 causes serious eye irritation. h336 may cause drowsiness or dizziness. h351 suspected of causing cancer. h411 toxic to aquatic life with long lasting effects. precautions for use appropriate engineering controls: local exhaust ventilation recommended. gloves: 1.pe/eval/pe 2.nitrile+pvc respirator: type ax filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep in a cool place. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. environment: harmful to aquatic organisms. properties liquid. gas.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: spilled liquid has low boiling temperature and evaporates quickly. eliminate ignition sources. control vapour with water spray/ fog. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4546-42 print date: 26/08/2026 initial date: not available revision date: 10/10/2025 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "5044-crc-windscreen-de-icer",
+      "file": "5044 - CRC Windscreen De-Icer.pdf",
+      "url": "minis/5044 - CRC Windscreen De-Icer.pdf",
+      "thumb": "thumbs/5044_-_CRC_Windscreen_De-Icer.jpg",
+      "title": "5044 - CRC Windscreen De-Icer",
+      "product": "CRC (NZ) 5044 De-Icer",
+      "sku": "5044",
+      "size": null,
+      "brand": "CRC",
+      "chemwatch": "4546-57",
+      "hazardAlert": 3,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H302",
+          "label": "Harmful if swallowed"
+        },
+        {
+          "code": "H304",
+          "label": "May be fatal if swallowed and enters airways"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H372",
+          "label": "Causes damage to organs through prolonged or repeated exposure"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "exclamation"
+      ],
+      "bytes": 117083,
+      "pages": 1,
+      "search": "5044 - crc windscreen de-icer crc (nz) 5044 de-icer chemwatch: 4546-57 chemwatch hazard alert code: 3 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc (nz) 5044 de-icer ingredients cas no % twa ethylene glycol 107-21-1 10-30 64 mg/m3 isopropanol 67-63-0 30-60 491 mg/m3 lpg (liquefied petroleum gas) 68476-85-7. 10-30 1800 mg/m3 note: manufacturer has supplied full ingredient not available - - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.1d (oral), 6.1e (aspiration), 6.4a, 6.9a signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h302 harmful if swallowed. h304 may be fatal if swallowed and enters airways. h319 causes serious eye irritation. h372 causes damage to organs through prolonged or repeated exposure. precautions for use glasses: consider chemical goggles. gloves: 1.neoprene 2.nitrile 3.pvc respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from food, drink and animal feeding stuffs. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. mixes with water.extremely flammable. emergency first aid eye: wash with running water (15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: severe exposure indicated by respiratory distress/hypotension managements is essentially supportive. fire fighting: keep containers cool. water spray/ fog. spills and disposal: eliminate ignition sources. control vapour with water spray/ fog. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4546-57 print date: 26/08/2026 initial date: not available revision date: 21/05/2026 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "crc-nz-3070-glass-cleaner-aerosol",
+      "file": "CRC (NZ) 3070 Glass Cleaner (Aerosol)_2025_October_10_AUS_EN.pdf",
+      "url": "minis/CRC (NZ) 3070 Glass Cleaner (Aerosol)_2025_October_10_AUS_EN.pdf",
+      "thumb": "thumbs/CRC_NZ_3070_Glass_Cleaner_Aerosol__2025_October_10_AUS_EN.jpg",
+      "title": "CRC (NZ) 3070 Glass Cleaner (Aerosol)",
+      "product": "CRC (NZ) 3070 Glass Cleaner (Aerosol)",
+      "sku": "3070",
+      "size": "Aerosol",
+      "brand": "CRC",
+      "chemwatch": "4546-39",
+      "hazardAlert": 2,
+      "un": "1950",
+      "dgClass": "2.2",
+      "signal": "Warning",
+      "hazards": [
+        {
+          "code": "H229",
+          "label": "Pressurised container: may burst if heated"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H402",
+          "label": "Harmful to aquatic life"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 112013,
+      "pages": 1,
+      "search": "crc (nz) 3070 glass cleaner (aerosol) crc (nz) 3070 glass cleaner (aerosol) chemwatch: 4546-39 chemwatch hazard alert code: 2 mini sds mini sds crc (nz) 3070 glass cleaner (aerosol) ingredients cas no % 8hr oel ethylene glycol monobutyl ether 111-76-2 1-9 49 mg/m3 ethanol 64-17-5 1-9 380 mg/m3 lpg (liquefied petroleum gas) 68476-85-7. 1-9 1800 mg/m3 water 7732-18-5 >60 - un no: 1950 hazchem code: not applicable dg class: 2.2 subsidiary hazard: not applicable packing group: not applicable poisons schedule: not applicable health hazard information signal word: warning hazard statement(s): h229 pressurised container: may burst if heated. h319 causes serious eye irritation. h361fd suspected of damaging fertility. suspected of damaging the unborn child. h402 harmful to aquatic life. auh044 risk of explosion if heated under confinement. precautions for use gloves: 1.butyl 2.neoprene 3.viton respirator: type ax filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep away from heat. fire/explosion hazard: toxic smoke/fumes in a fire. risk of explosion if heated under confinement. environment: harmful to aquatic organisms. properties liquid. gas. mixes with water.non-combustible. emergency first aid eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. fire fighting: keep containers cool. keep surrounding area cool. water spray/fog. spills and disposal: absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water. safe storage with other classified chemicals + x + o + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4546-39 print date: 28/08/2026 initial date: not available revision date: 10/10/2025 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "damar-spray-well-aerosol-all-colours-except-whit",
+      "file": "Damar Spray Well Aerosol ( All Colours Except Whit__2025_October_10_AUS_EN.pdf",
+      "url": "minis/Damar Spray Well Aerosol ( All Colours Except Whit__2025_October_10_AUS_EN.pdf",
+      "thumb": "thumbs/Damar_Spray_Well_Aerosol_All_Colours_Except_Whit__2025_October_10_AUS_EN.jpg",
+      "title": "Damar Spray Well Aerosol ( All Colours Except White)",
+      "product": "Damar Spray Well Aerosol ( All Colours Except White)",
+      "sku": null,
+      "size": null,
+      "brand": "Damar",
+      "chemwatch": "2517-648",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H315",
+          "label": "Causes skin irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H351",
+          "label": "Suspected of causing cancer"
+        },
+        {
+          "code": "H401",
+          "label": "Toxic to aquatic life"
+        },
+        {
+          "code": "H410",
+          "label": "Very toxic to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 123730,
+      "pages": 1,
+      "search": "damar spray well aerosol ( all colours except whit damar spray well aerosol ( all colours except white) chemwatch: 2517-648 chemwatch hazard alert code: 4 mini sds mini sds damar spray well aerosol ( all colours except white) ingredients cas no % 8hr oel di-sec-octyl phthalate 117-81-7 <3 2 mg/m3 cyclohexane 110-82-7 8-15 350 mg/m3 n-heptane 142-82-5 15-30 1640 mg/m3 hydrocarbon propellant 68476-85-7. 23-45 1800 mg/m3 un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable poisons schedule: not applicable health hazard information signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h315 causes skin irritation. h336 may cause drowsiness or dizziness. h351 suspected of causing cancer. h360fd may damage fertility. may damage the unborn child. h401 toxic to aquatic life. h410 very toxic to aquatic life with long lasting effects. auh044 risk of explosion if heated under confinement. precautions for use glasses: consider chemical goggles. gloves: 1.pe/eval/pe 2.teflon 3.viton respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. environment: may cause long-term adverse effects in the environment.use appropriate container to avoid environmental contamination. avoid release to the environment. refer to special instructions/safety data sheets. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. pollutant. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 2517-648 print date: 28/08/2026 initial date: not available revision date: 10/10/2025 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "808-silicone-spray",
+      "file": "MiniSDS_808 Silicone Spray_undefined_AUS_EN.pdf",
+      "url": "minis/MiniSDS_808 Silicone Spray_undefined_AUS_EN.pdf",
+      "thumb": "thumbs/MiniSDS_808_Silicone_Spray_undefined_AUS_EN.jpg",
+      "title": "808 Silicone Spray",
+      "product": "808 Silicone Spray",
+      "sku": "808",
+      "size": null,
+      "brand": "Other",
+      "chemwatch": "5617-10",
+      "hazardAlert": 3,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H315",
+          "label": "Causes skin irritation"
+        },
+        {
+          "code": "H320",
+          "label": "Causes eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H411",
+          "label": "Toxic to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 118475,
+      "pages": 1,
+      "search": "808 silicone spray 808 silicone spray chemwatch: 5617-10 chemwatch hazard alert code: 3 mini sds mini sds 808 silicone spray ingredients cas no % 8hr oel hydrocarbon propellant 68476-85-7. 30-60 1800 mg/m3 naphtha petroleum, light, hydrotreated 64742-49-0. 10-30 - polydimethylsiloxane 63148-62-9 1-20 - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable poisons schedule: not applicable health hazard information signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h315 causes skin irritation. h320 causes eye irritation. h336 may cause drowsiness or dizziness. h411 toxic to aquatic life with long lasting effects. auh044 risk of explosion if heated under confinement. precautions for use glasses: consider chemical goggles. gloves: when handling larger quantities: respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. environment: toxic to bees.use appropriate container to avoid environmental contamination. avoid release to the environment. refer to special instructions/safety data sheets. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: give water (if conscious). seek medical advice. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. pollutant. control vapour with water spray/ fog. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 5617-10 print date: 28/08/2026 initial date: not available revision date: 05/07/2023 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "crc-nz-2015-2016-co-contact-cleaner-aerosol",
+      "file": "MiniSDS_CRC (NZ) 2015, 2016 CO Contact Cleaner (Aerosol)_undefined_AUS_EN.pdf",
+      "url": "minis/MiniSDS_CRC (NZ) 2015, 2016 CO Contact Cleaner (Aerosol)_undefined_AUS_EN.pdf",
+      "thumb": "thumbs/MiniSDS_CRC_NZ_2015_2016_CO_Contact_Cleaner_Aerosol__undefined_AUS_EN.jpg",
+      "title": "CRC (NZ) 2015, 2016 CO Contact Cleaner (Aerosol)",
+      "product": "CRC (NZ) 2015, 2016 CO Contact Cleaner (Aerosol)",
+      "sku": "2015",
+      "size": "Aerosol",
+      "brand": "CRC",
+      "chemwatch": "16598",
+      "hazardAlert": 3,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H304",
+          "label": "May be fatal if swallowed and enters airways"
+        },
+        {
+          "code": "H315",
+          "label": "Causes skin irritation"
+        },
+        {
+          "code": "H320",
+          "label": "Causes eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H411",
+          "label": "Toxic to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 135846,
+      "pages": 1,
+      "search": "crc (nz) 2015, 2016 co contact cleaner (aerosol) crc (nz) 2015, 2016 co contact cleaner (aerosol) chemwatch: 16598 chemwatch hazard alert code: 3 mini sds mini sds crc (nz) 2015, 2016 co contact cleaner (aerosol) ingredients cas no % 8hr oel carbon dioxide 124-38-9 1-9 9000 mg/m3 naphtha petroleum, light, hydrotreated. 64742-49-0. >60 - note: manufacturer has supplied full ingredient not available - - information to allow chemwatch assessment. not available - - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable poisons schedule: not applicable health hazard information signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h304 may be fatal if swallowed and enters airways. h315 causes skin irritation. h320 causes eye irritation. h336 may cause drowsiness or dizziness. h361f suspected of damaging fertility. h411 toxic to aquatic life with long lasting effects. auh044 risk of explosion if heated under confinement. precautions for use gloves: when handling larger quantities: neoprene. respirator: type a filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: spilled liquid has low boiling temperature and evaporates quickly. eliminate ignition sources. control vapour with water spray/ fog. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 16598 print date: 28/08/2026 initial date: not available revision date: 10/12/2021 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "crc-nz-multipurpose-aerosol-adhesive",
+      "file": "MiniSDS_CRC (NZ) Multipurpose Aerosol Adhesive_undefined_AUS_EN.pdf",
+      "url": "minis/MiniSDS_CRC (NZ) Multipurpose Aerosol Adhesive_undefined_AUS_EN.pdf",
+      "thumb": "thumbs/MiniSDS_CRC_NZ_Multipurpose_Aerosol_Adhesive_undefined_AUS_EN.jpg",
+      "title": "CRC (NZ) Multipurpose Aerosol Adhesive",
+      "product": "CRC (NZ) Multipurpose Aerosol Adhesive",
+      "sku": null,
+      "size": null,
+      "brand": "CRC",
+      "chemwatch": "4574-63",
+      "hazardAlert": 3,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H304",
+          "label": "May be fatal if swallowed and enters airways"
+        },
+        {
+          "code": "H315",
+          "label": "Causes skin irritation"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H411",
+          "label": "Toxic to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 133625,
+      "pages": 1,
+      "search": "crc (nz) multipurpose aerosol adhesive crc (nz) multipurpose aerosol adhesive chemwatch: 4574-63 chemwatch hazard alert code: 3 mini sds mini sds crc (nz) multipurpose aerosol adhesive ingredients cas no % 8hr oel dimethyl ether 115-10-6 10-30 760 mg/m3 acetone 67-64-1 5-10 594 mg/m3 lpg (liquefied petroleum gas) 68476-85-7. 10-30 1800 mg/m3 naphtha petroleum, light, hydrotreated. 64742-49-0. 10-30 - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable poisons schedule: not applicable health hazard information signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h304 may be fatal if swallowed and enters airways. h315 causes skin irritation. h319 causes serious eye irritation. h336 may cause drowsiness or dizziness. h411 toxic to aquatic life with long lasting effects. auh044 risk of explosion if heated under confinement. precautions for use glasses: safety glasses. gloves: 1.butyl 2.pe/eval/pe 3.teflon respirator: type ax filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4574-63 print date: 28/08/2026 initial date: not available revision date: 10/03/2023 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "crc-2-26-aerosol",
+      "file": "MiniSDS_CRC 2-26 Aerosol_undefined_AUS_EN.pdf",
+      "url": "minis/MiniSDS_CRC 2-26 Aerosol_undefined_AUS_EN.pdf",
+      "thumb": "thumbs/MiniSDS_CRC_2-26_Aerosol_undefined_AUS_EN.jpg",
+      "title": "CRC 2-26 Aerosol",
+      "product": "CRC 2-26 Aerosol",
+      "sku": null,
+      "size": null,
+      "brand": "CRC",
+      "chemwatch": "307-4574",
+      "hazardAlert": 2,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H317",
+          "label": "May cause an allergic skin reaction"
+        },
+        {
+          "code": "H320",
+          "label": "Causes eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H402",
+          "label": "Harmful to aquatic life"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 109194,
+      "pages": 1,
+      "search": "crc 2-26 aerosol crc 2-26 aerosol chemwatch: 307-4574 chemwatch hazard alert code: 2 mini sds mini sds crc 2-26 aerosol ingredients cas no % 8hr oel c14-20 aliphatics (<=2% aromatics) 64742-47-8. 50-75 5 mg/m3 dipropylene glycol monomethyl ether 34590-94-8 1-5 305 mg/m3 carbon dioxide 124-38-9 1-5 9000 mg/m3 sodium petroleum sulfonate 68608-26-4 1-5 - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable poisons schedule: not applicable health hazard information signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h317 may cause an allergic skin reaction. h320 causes eye irritation. h336 may cause drowsiness or dizziness. h402 harmful to aquatic life. auh044 risk of explosion if heated under confinement. auh066 repeated exposure may cause skin dryness and cracking. precautions for use glasses: consider chemical goggles. gloves: when handling larger quantities: general purpose rubber glove. respirator: type a-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. environment: harmful to aquatic organisms. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 307-4574 print date: 28/08/2026 initial date: not available revision date: 10/10/2025 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "crc-5073-hot-shot-aerosol",
+      "file": "MiniSDS_CRC 5073 Hot Shot (Aerosol)_undefined_AUS_EN.pdf",
+      "url": "minis/MiniSDS_CRC 5073 Hot Shot (Aerosol)_undefined_AUS_EN.pdf",
+      "thumb": "thumbs/MiniSDS_CRC_5073_Hot_Shot_Aerosol__undefined_AUS_EN.jpg",
+      "title": "CRC 5073 Hot Shot (Aerosol)",
+      "product": "CRC 5073 Hot Shot (Aerosol)",
+      "sku": "5073",
+      "size": "Aerosol",
+      "brand": "CRC",
+      "chemwatch": "44104",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H304",
+          "label": "May be fatal if swallowed and enters airways"
+        },
+        {
+          "code": "H315",
+          "label": "Causes skin irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "exclamation"
+      ],
+      "bytes": 115183,
+      "pages": 1,
+      "search": "crc 5073 hot shot (aerosol) crc 5073 hot shot (aerosol) chemwatch: 44104 chemwatch hazard alert code: 4 mini sds mini sds crc 5073 hot shot (aerosol) ingredients cas no % 8hr oel white spirit 8052-41-3. >60 296 mg/m3 hydrocarbon propellant 68476-85-7. 10-30 1800 mg/m3 note: manufacturer has supplied full ingredient not available - - information to allow chemwatch assessment. not available - - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable poisons schedule: not applicable health hazard information signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h304 may be fatal if swallowed and enters airways. h315 causes skin irritation. h336 may cause drowsiness or dizziness. auh044 risk of explosion if heated under confinement. precautions for use gloves: when handling larger quantities: respirator: type ax filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 44104 print date: 28/08/2026 initial date: not available revision date: 10/07/2024 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "crc-556-marine-aerosol-nz",
+      "file": "MiniSDS_CRC 556 Marine Aerosol (NZ)_undefined_AUS_EN.pdf",
+      "url": "minis/MiniSDS_CRC 556 Marine Aerosol (NZ)_undefined_AUS_EN.pdf",
+      "thumb": "thumbs/MiniSDS_CRC_556_Marine_Aerosol_NZ__undefined_AUS_EN.jpg",
+      "title": "CRC 556 Marine Aerosol (NZ)",
+      "product": "CRC 556 Marine Aerosol (NZ)",
+      "sku": "556",
+      "size": null,
+      "brand": "CRC",
+      "chemwatch": "4552-43",
+      "hazardAlert": 2,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H320",
+          "label": "Causes eye irritation"
+        },
+        {
+          "code": "H335",
+          "label": "May cause respiratory irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H410",
+          "label": "Very toxic to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 106708,
+      "pages": 1,
+      "search": "crc 556 marine aerosol (nz) crc 556 marine aerosol (nz) chemwatch: 4552-43 chemwatch hazard alert code: 2 mini sds mini sds crc 556 marine aerosol (nz) ingredients cas no % 8hr oel isoparaffins petroleum hydrotreated hfp 64742-47-8. 30-60 296 mg/m3 hydrocarbon propellant 68476-85-7. 10-30 1800 mg/m3 mineral oil 63748-98-1 10-30 5 mg/m3 note: manufacturer has supplied full ingredient not available - - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable poisons schedule: not applicable health hazard information signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h320 causes eye irritation. h335 may cause respiratory irritation. h336 may cause drowsiness or dizziness. h410 very toxic to aquatic life with long lasting effects. auh044 risk of explosion if heated under confinement. precautions for use gloves: when handling larger quantities: respirator: type ax filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: give water (if conscious). seek medical advice. do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: emesis generally unnecessary. debride for subcutaneous injection. evaluate for respiratory distress. consider lavage with cuffed tube. no adrenalin. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4552-43 print date: 28/08/2026 initial date: not available revision date: 26/03/2026 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "formula-colorpak-pro-series-aerosol-fastdry-enamel",
+      "file": "MiniSDS_Formula Colorpak Pro Series Aerosol Fastdry Enamel__undefined_AUS_EN.pdf",
+      "url": "minis/MiniSDS_Formula Colorpak Pro Series Aerosol Fastdry Enamel__undefined_AUS_EN.pdf",
+      "thumb": "thumbs/MiniSDS_Formula_Colorpak_Pro_Series_Aerosol_Fastdry_Enamel__undefined_AUS_EN.jpg",
+      "title": "Formula Colorpak Pro Series Aerosol Fastdry Enamel Satin Black",
+      "product": "Formula Colorpak Pro Series Aerosol Fastdry Enamel Satin Black",
+      "sku": null,
+      "size": null,
+      "brand": "Colorpak",
+      "chemwatch": "6800-255",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H302",
+          "label": "Harmful if swallowed"
+        },
+        {
+          "code": "H315",
+          "label": "Causes skin irritation"
+        },
+        {
+          "code": "H319",
+          "label": "Causes serious eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H351",
+          "label": "Suspected of causing cancer"
+        },
+        {
+          "code": "H373",
+          "label": "May cause damage to organs through prolonged or repeated exposure"
+        },
+        {
+          "code": "H411",
+          "label": "Toxic to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 141723,
+      "pages": 1,
+      "search": "formula colorpak pro series aerosol fastdry enamel formula colorpak pro series aerosol fastdry enamel satin black chemwatch: 6800-255 chemwatch hazard alert code: 4 mini sds mini sds formula colorpak pro series aerosol fastdry enamel satin black ingredients cas no % 8hr oel toluene 108-88-3 15-30 75 mg/m3 ethylbenzene 100-41-4 <4 87 mg/m3 xylene 1330-20-7 5-12 350 mg/m3 acetone 67-64-1 12-20 594 mg/m3 un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable poisons schedule: not applicable health hazard information signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h302 harmful if swallowed. h315 causes skin irritation. h319 causes serious eye irritation. h336 may cause drowsiness or dizziness. h351 suspected of causing cancer. h361d suspected of damaging the unborn child. h373 may cause damage to organs through prolonged or repeated exposure. h411 toxic to aquatic life with long lasting effects. auh044 risk of explosion if heated under confinement. precautions for use appropriate engineering controls: local exhaust ventilation recommended. glasses: consider chemical goggles. gloves: 1.viton/chlorobutyl 2.viton respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from food, drink and animal feeding stuffs. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 6800-255 print date: 28/08/2026 initial date: not available revision date: 02/04/2026 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    },
+    {
+      "id": "galmet-spraypaint-aerosol-all-colours-except-silv",
+      "file": "MiniSDS_Galmet Spraypaint Aerosol (all colours except silv__undefined_AUS_EN.pdf",
+      "url": "minis/MiniSDS_Galmet Spraypaint Aerosol (all colours except silv__undefined_AUS_EN.pdf",
+      "thumb": "thumbs/MiniSDS_Galmet_Spraypaint_Aerosol_all_colours_except_silv__undefined_AUS_EN.jpg",
+      "title": "Galmet Spraypaint Aerosol (all colours except silver)",
+      "product": "Galmet Spraypaint Aerosol (all colours except silver)",
+      "sku": null,
+      "size": null,
+      "brand": "Galmet",
+      "chemwatch": "5141-44",
+      "hazardAlert": 4,
+      "un": "1950",
+      "dgClass": "2.1",
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222+H229",
+          "label": "Extremely flammable aerosol. May burst if heated"
+        },
+        {
+          "code": "H304",
+          "label": "May be fatal if swallowed and enters airways"
+        },
+        {
+          "code": "H320",
+          "label": "Causes eye irritation"
+        },
+        {
+          "code": "H336",
+          "label": "May cause drowsiness or dizziness"
+        },
+        {
+          "code": "H373",
+          "label": "May cause damage to organs through prolonged or repeated exposure"
+        },
+        {
+          "code": "H412",
+          "label": "Harmful to aquatic life with long lasting effects"
+        }
+      ],
+      "pictograms": [
+        "flame",
+        "gas",
+        "health",
+        "environment",
+        "exclamation"
+      ],
+      "bytes": 133490,
+      "pages": 1,
+      "search": "galmet spraypaint aerosol (all colours except silv galmet spraypaint aerosol (all colours except silver) chemwatch: 5141-44 chemwatch hazard alert code: 4 mini sds mini sds galmet spraypaint aerosol (all colours except silver) ingredients cas no % 8hr oel solvent naphtha petroleum, medium aliphatic. 64742-88-7 10-29 5 mg/m3 toluene 108-88-3 0-9 75 mg/m3 naphtha petroleum, light aromatic solvent 64742-95-6. 0-9 296 mg/m3 dimethyl ether 115-10-6 30-60 760 mg/m3 un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable poisons schedule: s5 health hazard information signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h304 may be fatal if swallowed and enters airways. h320 causes eye irritation. h336 may cause drowsiness or dizziness. h361d suspected of damaging the unborn child. h373 may cause damage to organs through prolonged or repeated exposure. h412 harmful to aquatic life with long lasting effects. auh044 risk of explosion if heated under confinement. precautions for use glasses: consider chemical goggles. gloves: 1.pe/eval/pe 2.pva 3.viton respirator: type ax filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep in a cool place. keep container in a well ventilated place. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. does not mix with water. floats on water.extremely flammable. emergency first aid swallowed: give water (if conscious). seek medical advice. do not give milk or oil. do not give alcohol. eye: wash with running water (minimum 15 mins). medical attention. skin: remove contaminated clothing. wash with soap & water. fire fighting: keep containers cool. foam. spills and disposal: eliminate ignition sources. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water and detergent. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 5141-44 print date: 28/08/2026 initial date: not available revision date: 10/10/2025 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
+    }
+  ]
+}
