@@ -55,6 +55,7 @@ TITLE_OVERRIDES = {
     "CKL402 - Colorpak Lacquer Fillable Aerosol.pdf": "Colorpak Lacquer Fillable Aerosol (CFL402 / CKL402 Deep Bronze Green)",
     "692918 - RS Optical Instrument Cleaner (400ml).pdf": "RS PRO Optical Instrument Cleaner 692-918 (400ml aerosol)",
     "982085694 - RS Optical Instrument Cleaner (250ml).pdf": "RS PRO Optical Instrument Cleaner 136-8540 / 982085694 (250ml)",
+    "739294 - SC Johnson Pledge Multi-Surface Aerosol (500g).pdf": "SC Johnson Professional Pledge Aerosol Multi-Surface Cleaner (UK)",
 }
 
 
