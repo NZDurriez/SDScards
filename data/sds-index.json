@@ -1,7 +1,7 @@
 {
   "title": "Mini SDS Library",
   "source": "minis",
-  "count": 33,
+  "count": 36,
   "cards": [
     {
       "id": "0893100-wurth-hhs-2000-330g",
@@ -800,6 +800,35 @@
       "search": "5044 - crc windscreen de-icer 5044 - crc windscreen de-icer crc (nz) 5044 de-icer chemwatch: 4546-57 chemwatch hazard alert code: 3 nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available nz poisons centre 0800 764 766 | nz emergency services: 111 - this is a summary only - full report available crc (nz) 5044 de-icer ingredients cas no % twa ethylene glycol 107-21-1 10-30 64 mg/m3 isopropanol 67-63-0 30-60 491 mg/m3 lpg (liquefied petroleum gas) 68476-85-7. 10-30 1800 mg/m3 note: manufacturer has supplied full ingredient not available - - un no: 1950 hazchem code: not applicable dg class: 2.1 subsidiary hazard: not applicable packing group: not applicable health hazard information determined by chemwatch using ghs/hsno criteriagazetted by epa new zealand 2.1.2a, 6.1d (oral), 6.1e (aspiration), 6.4a, 6.9a signal word: danger hazard statement(s): h222+h229 extremely flammable aerosol. pressurized container: may burst if heated. h302 harmful if swallowed. h304 may be fatal if swallowed and enters airways. h319 causes serious eye irritation. h372 causes damage to organs through prolonged or repeated exposure. precautions for use glasses: consider chemical goggles. gloves: 1.neoprene 2.nitrile 3.pvc respirator: type ax-p filter of sufficient capacity. (as/nzs 1716 & 1715, en 143:2000 & 149:2001, ansi z88 or national equivalent) storage and transportation: store in cool, dry, protected area. keep out of reach of children. keep container in a well ventilated place. keep away from food, drink and animal feeding stuffs. keep away from heat. keep away from sources of ignition. no smoking. fire/explosion hazard: highly flammable. vapours/gas heavier than air. toxic smoke/fumes in a fire. risk of explosion if heated under confinement. in case of fire and/or explosion, do not breathe fumes. properties liquid. gas. mixes with water.extremely flammable. emergency first aid eye: wash with running water (15 mins). medical attention. skin: wash with soap & water. apply cleansing cream. advice to doctor: severe exposure indicated by respiratory distress/hypotension managements is essentially supportive. fire fighting: keep containers cool. water spray/ fog. spills and disposal: eliminate ignition sources. control vapour with water spray/ fog. absorb with dry agent. stop leak if safe to do so. this material and its container must be disposed of in a safe way. to clean the floor and all objects contaminated by this material, use water. safe storage with other classified chemicals + x + x + + + x \u2014 must not be stored together o \u2014 may be stored together with specific preventions + \u2014 may be stored together note: depending on other risk factors, compatibility assessment based on the table above may not be relevant to storage situations, particularly where large volumes of dangerous goods are stored and handled. reference should be made to the safety data sheets for each substance or article and risks assessed accordingly. chemwatch: 4546-57 print date: 26/08/2026 initial date: not available revision date: 21/05/2026 this document is copyright. apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the copyright act, no part may be reproduced by any process without written permission from chemwatch. tel (+61 3) 9572 4700. ghs dg"
     },
     {
+      "id": "692918-rs-optical-instrument-cleaner-400ml",
+      "file": "692918 - RS Optical Instrument Cleaner (400ml).pdf",
+      "url": "minis/692918 - RS Optical Instrument Cleaner (400ml).pdf",
+      "thumb": "thumbs/692918_-_RS_Optical_Instrument_Cleaner_400ml_.jpg",
+      "title": "RS PRO Optical Instrument Cleaner 692-918 (400ml aerosol)",
+      "product": "RS PRO Optical Instrument Cleaner 692-918 (400ml aerosol)",
+      "sku": "692918",
+      "size": "400ml",
+      "brand": "RS PRO",
+      "chemwatch": null,
+      "hazardAlert": null,
+      "un": null,
+      "dgClass": null,
+      "signal": "Danger",
+      "hazards": [
+        {
+          "code": "H222",
+          "label": "Extremely flammable aerosol"
+        }
+      ],
+      "pictograms": [
+        "flame"
+      ],
+      "kind": "Full SDS",
+      "bytes": 995652,
+      "pages": 7,
+      "search": "692918 - rs optical instrument cleaner (400ml) rs pro optical instrument cleaner 692-918 (400ml aerosol) revision date 07/10/2015 revision 19 supersedes date 16/02/2015 safety data sheet optical instrument cleaner.692-918-0001 section 1: identification of the substance/mixture and of the company/undertaking 1.1. product identifier product name optical instrument cleaner.692-918-0001 product no. 000162076840 1.2. relevant identified uses of the substance or mixture and uses advised against identified uses as product description 1.3. details of the supplier of the safety data sheet r s components limited supplier birchington road corby northants nn17 9rs +44(0)1536 402888 (8am-8pm) +44(0)1536 401588 technical.help@rs-components.com 1.4. emergency telephone number section 2: hazards identification 2.1. classification of the substance or mixture classification (ec 1272/2008) physical and chemical hazards flam. aerosol 1 - h222 human health not classified. environment not classified. classification (1999/45/eec) f+;r12. the full text for all r-phrases and hazard statements are displayed in section 16. 2.2. label elements label in accordance with (ec) no. 1272/2008 signal word danger hazard statements h222 extremely flammable aerosol. precautionary statements p102 keep out of reach of children. p210 keep away from heat/sparks/open flames/hot surfaces. - no smoking. p261 avoid breathing vapour/spray. p280 wear protective gloves. p305+351+338 if in eyes: rinse cautiously with water for several minutes. remove contact lenses, if present and easy to do. continue rinsing. p337+313 if eye irritation persists: get medical advice/attention. p501 dispose of contents/container in accordance with local regulations. supplementary precautionary statements p211 do not spray on an open flame or other ignition source. p251 pressurized container: do not pierce or burn, even after use. 7 1 / cp0441 v4.3 rs 692-918 rs review date: 01/11/15 +44(0)1536 402888 (8am-8pm) +44(0)1536 401588"
+    },
+    {
       "id": "858494-pledge-beautify-it-enhancing-polish-330ml",
       "file": "858494 - Pledge Beautify It Enhancing Polish (330ml).pdf",
       "url": "minis/858494 - Pledge Beautify It Enhancing Polish (330ml).pdf",
@@ -856,6 +885,50 @@
       "search": "9317550000017 - inox mx3 super lubricating (300g) 9317550000017 - inox mx3 super lubricating (300g) product name: inox-mx3 aerosol page: 1 of 6 this version issued: february, 2022 safety data sheet issued by: candan industries pty. ltd telephone: (07) 3209 8733 in new zealand: emergency 0212 811 500 in new zealand: phone 0212 811 500, fax 09 929 3177 poisons information centre: 13 11 26 from anywhere in australia and 0800 764 766 in new zealand section 1 - identification of the material and supplier candan industries pty. ltd telephone: (07) 3209 8733 65 chetwynd st fax: (07) 3209 8744 loganholme qld 4129 australia emergency telephone number (a/hr) 0439 788 748 new zealand supplier: inox new zealand in new zealand: emergency 0212 811 500 in new zealand: phone 0212 811 500, fax 09 929 3177 chemical nature: oil blend dispensed as an aerosol trade name: inox-mx3 aerosol product code: 00003 (100 g), 00001 (300 g) product use: anti-corrosion, anti-moisture penetrating oil creation date: november, 2016 this version issued: february, 2022 and is valid for 5 years from this date. poisons information centre: phone 13 11 26 from anywhere in australia section 2 - hazards identification statement of hazardous nature this product is classified as: hazardous according to the criteria of swa. dangerous according to australian dangerous goods (adg) code, iata and imdg/imsbc criteria. susmp classification: none allocated. adg classification: class 2.1: flammable gases. un number: 1950, aerosols ghs signal word: danger flammable aerosols category 2 hazard statement: h223: flammable aerosol h229: pressurised container: may burst if heated. prevention p210: keep away from heat, sparks, open flames and hot surfaces. - no smoking. p211: do not spray on an open flame or other ignition source. p233: keep container tightly closed. p240: ground/bond container and receiving equipment. p241: use explosion-proof electrical ventilating, lighting and other equipment. p242: use only non-sparking tools. p243: take precautionary measures against static discharge. p251: do not pierce or burn, even after use. p261: avoid breathing fumes, mists, vapours or spray. p262: do not get in eyes, on skin, or on clothing. p271: use only outdoors or in a well ventilated area. p280: wear protective gloves, protective clothing and eye or face protection. response p362: take off contaminated clothing and wash before reuse. p301+p330+p331: if swallowed: rinse mouth. do not induce vomiting. p303+p361+p353: if on skin (or hair): remove immediately all contaminated clothing. rinse skin with water. p372: explosion risk in case of fire. p381: eliminate all ignition sources if safe to do so."
     },
     {
+      "id": "982085694-rs-optical-instrument-cleaner-250ml",
+      "file": "982085694 - RS Optical Instrument Cleaner (250ml).pdf",
+      "url": "minis/982085694 - RS Optical Instrument Cleaner (250ml).pdf",
+      "thumb": "thumbs/982085694_-_RS_Optical_Instrument_Cleaner_250ml_.jpg",
+      "title": "RS PRO Optical Instrument Cleaner 136-8540 / 982085694 (250ml)",
+      "product": "RS PRO Optical Instrument Cleaner 136-8540 / 982085694 (250ml)",
+      "sku": "982085694",
+      "size": "250ml",
+      "brand": "RS PRO",
+      "chemwatch": null,
+      "hazardAlert": null,
+      "un": null,
+      "dgClass": null,
+      "signal": null,
+      "hazards": [],
+      "pictograms": [],
+      "kind": "Full SDS",
+      "bytes": 339195,
+      "pages": 10,
+      "search": "982085694 - rs optical instrument cleaner (250ml) rs pro optical instrument cleaner 136-8540 / 982085694 (250ml) revision date: 19/11/2019 section 1: identification of the substance/mixture and of the company/undertaking 1.1. product identifier product name rs pro optical instrument cleaner product number 136-8540, zp 1.2. relevant identified uses of the substance or mixture and uses advised against identified uses cleaning agent. uses advised against no specific uses advised against are identified. 1.3. details of the supplier of the safety data sheet supplier rs components ltd birchington road, corby, northants nn17 9rs +44 (0) 845 850 9900 rcustomerservicesuk@rs-components.com rs components ltd glenview industrial estate herberton road rialto dublin 12 +353 (0) 1 415 3100 enquiries.ie@rs-components.com 1.4. emergency telephone number emergency telephone +44 (0)1865 407333 +44 1235 239670 section 2: hazards identification 2.1. classification of the substance or mixture classification (ec 1272/2008) physical hazards not classified health hazards not classified environmental hazards not classified 2.2. label elements hazard statements nc not classified supplemental label information euh210 safety data sheet available on request. detergent labelling < 5% perfumes 2.3. other hazards this product does not contain any substances classified as pbt or vpvb. section 3: composition/information on ingredients 1/10 rs review date: 01/02/22 revision: 1.2 sd0994 v1.4 rs 136-8540 safety data sheet rs pro optical instrument cleaner according to regulation (ec) no 1907/2006, annex ii, as amended. commission regulation (eu) no 2015/830 of 28 may 2015."
+    },
+    {
+      "id": "ckl402-colorpak-lacquer-fillable-aerosol",
+      "file": "CKL402 - Colorpak Lacquer Fillable Aerosol.pdf",
+      "url": "minis/CKL402 - Colorpak Lacquer Fillable Aerosol.pdf",
+      "thumb": "thumbs/CKL402_-_Colorpak_Lacquer_Fillable_Aerosol.jpg",
+      "title": "Colorpak Lacquer Fillable Aerosol (CFL402 / CKL402 Deep Bronze Green)",
+      "product": "Colorpak Lacquer Fillable Aerosol (CFL402 / CKL402 Deep Bronze Green)",
+      "sku": "CKL402",
+      "size": null,
+      "brand": "Colorpak",
+      "chemwatch": null,
+      "hazardAlert": 4,
+      "un": null,
+      "dgClass": null,
+      "signal": "Danger",
+      "hazards": [],
+      "pictograms": [],
+      "kind": "Full SDS",
+      "bytes": 347842,
+      "pages": 19,
+      "search": "ckl402 - colorpak lacquer fillable aerosol colorpak lacquer fillable aerosol (cfl402 / ckl402 deep bronze green) colorpak lacquer fillable aerosol formula marketing limited chemwatch hazard alert code: 4 version no: 3.3 safety data sheet according to the health and safety at work (hazardous substances) regulations 2017 issue date: 25/07/2022 print date: 25/07/2022 l.ghs.nzl.en section 1 identification of the substance / mixture and of the company / undertaking product identifier product name colorpak lacquer fillable aerosol chemical name not applicable synonyms cpa0286; cfl402 proper shipping name aerosols chemical formula not applicable other means of identification not available relevant identified uses of the substance or mixture and uses advised against relevant identified uses application is by spray atomisation from a hand held aerosol pack details of the supplier of the safety data sheet registered company name formula marketing limited address 60b cryers road, east tamaki auckland 2013 new zealand telephone 09 273 3600 fax not available website email sales@formula.co.nz emergency telephone number association / organisation nz poison centre emergency telephone numbers 0800 764 766 other emergency telephone numbers not available section 2 hazards identification classification of the substance or mixture considered a hazardous substance according to the criteria of the new zealand hazardous substances new organisms legislation. classified as dangerous goods for transport purposes. chemwatch hazard ratings max min flammability 4 toxicity 1 body contact 2 reactivity 0 chronic 2 0 = minimum 1 = low 2 = moderate 3 = high 4 = extreme classification [1] serious eye damage/eye irritation category 2, aerosols category 1 legend: 1. classified by chemwatch; 2. classification drawn from ccid epa nz; 3. classification drawn from regulation (eu) no 1272/2008 - annex vi determined by chemwatch using ghs/hsno criteria 2.1.2a, 6.4a label elements hazard pictogram(s) signal word danger www.formula.co.nz page 1 continued..."
+    },
+    {
       "id": "crc-nz-3070-glass-cleaner-aerosol",
       "file": "CRC (NZ) 3070 Glass Cleaner (Aerosol)_2025_October_10_AUS_EN.pdf",
       "url": "minis/CRC (NZ) 3070 Glass Cleaner (Aerosol)_2025_October_10_AUS_EN.pdf",
@@ -863,7 +936,7 @@
       "title": "CRC (NZ) 3070 Glass Cleaner (Aerosol)",
       "product": "CRC (NZ) 3070 Glass Cleaner (Aerosol)",
       "sku": "3070",
-      "size": "Aerosol",
+      "size": null,
       "brand": "CRC",
       "chemwatch": "4546-39",
       "hazardAlert": 2,
@@ -1052,7 +1125,7 @@
       "title": "CRC (NZ) 2015, 2016 CO Contact Cleaner (Aerosol)",
       "product": "CRC (NZ) 2015, 2016 CO Contact Cleaner (Aerosol)",
       "sku": "2015",
-      "size": "Aerosol",
+      "size": null,
       "brand": "CRC",
       "chemwatch": "16598",
       "hazardAlert": 3,
@@ -1206,7 +1279,7 @@
       "title": "CRC 5073 Hot Shot (Aerosol)",
       "product": "CRC 5073 Hot Shot (Aerosol)",
       "sku": "5073",
-      "size": "Aerosol",
+      "size": null,
       "brand": "CRC",
       "chemwatch": "44104",
       "hazardAlert": 4,

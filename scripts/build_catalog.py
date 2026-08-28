@@ -52,11 +52,16 @@ def clean_filename(name: str) -> str:
 
 TITLE_OVERRIDES = {
     "MiniSDS_CRC 556 Marine Aerosol (NZ)_undefined_AUS_EN.pdf": "CRC 556 / 66-Marine (6006) Marine Aerosol",
+    "CKL402 - Colorpak Lacquer Fillable Aerosol.pdf": "Colorpak Lacquer Fillable Aerosol (CFL402 / CKL402 Deep Bronze Green)",
+    "692918 - RS Optical Instrument Cleaner (400ml).pdf": "RS PRO Optical Instrument Cleaner 692-918 (400ml aerosol)",
+    "982085694 - RS Optical Instrument Cleaner (250ml).pdf": "RS PRO Optical Instrument Cleaner 136-8540 / 982085694 (250ml)",
 }
 
 
 def brand_of(*parts: str) -> str:
     blob = " ".join(parts).lower()
+    if "rs pro" in blob or "optical instrument cleaner" in blob:
+        return "RS PRO"
     if "crc" in blob:
         return "CRC"
     if "damar" in blob:
@@ -84,8 +89,8 @@ def brand_of(*parts: str) -> str:
 
 def sku_from_filename(filename: str) -> str | None:
     stem = Path(filename).stem
-    m = re.match(r"^(\d+)\s+-", stem)
-    if m:
+    m = re.match(r"^([A-Za-z0-9.-]+)\s+-", stem)
+    if m and any(ch.isdigit() for ch in m.group(1)):
         return m.group(1)
     cleaned = clean_filename(filename)
     m = re.search(r"\b(\d{3,7})\b", cleaned)
@@ -93,7 +98,7 @@ def sku_from_filename(filename: str) -> str | None:
 
 
 def pack_size(filename: str) -> str | None:
-    m = re.search(r"\(([^)]*(?:ml|g|kg|L)[^)]*)\)", filename, re.I)
+    m = re.search(r"\(([^)]*\d+\s*(?:ml|g|kg|L)[^)]*)\)", filename, re.I)
     return m.group(1).strip() if m else None
 
 
