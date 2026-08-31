@@ -20,6 +20,7 @@ H_LABELS = {
     "H222": "Extremely flammable aerosol",
     "H229": "Pressurised container: may burst if heated",
     "H222+H229": "Extremely flammable aerosol. May burst if heated",
+    "H226": "Flammable liquid and vapour",
     "H302": "Harmful if swallowed",
     "H304": "May be fatal if swallowed and enters airways",
     "H315": "Causes skin irritation",
@@ -56,6 +57,8 @@ TITLE_OVERRIDES = {
     "692918 - RS Optical Instrument Cleaner (400ml).pdf": "RS PRO Optical Instrument Cleaner 692-918 (400ml aerosol)",
     "982085694 - RS Optical Instrument Cleaner (250ml).pdf": "RS PRO Optical Instrument Cleaner 136-8540 / 982085694 (250ml)",
     "739294 - SC Johnson Pledge Multi-Surface Aerosol (500g).pdf": "SC Johnson Professional Pledge Aerosol Multi-Surface Cleaner (UK)",
+    "Silvo Silver Polish.pdf": "Silvo Silver Polish",
+    "Brasso Metal Polish.pdf": "Brasso Metal Polish",
 }
 
 
@@ -83,6 +86,8 @@ def brand_of(*parts: str) -> str:
         return "Air Wick"
     if "pledge" in blob:
         return "Pledge"
+    if "silvo" in blob or "brasso" in blob or "reckitt" in blob:
+        return "Reckitt"
     if "lowa" in blob:
         return "LOWA"
     return "Other"
